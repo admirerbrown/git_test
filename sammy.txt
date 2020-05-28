@@ -4,3 +4,5 @@ practising day three. i am revisiting this lesson to see if everything i have le
 i have run into an unexpected error while trying to commit the modified file this day. i seek to resolve it and make progress and never repeat the same mistake.
 i have finally been able to resolve my issue of unable to commit my staged file by figuring out how to unstage the modified file and reseting Head to remove the tracked file.the plus for me is that i was able to get the new and modified file that had already been staged.the overall plus for me today is that i made a progress by getting myself out of trouble after i got into trouble. i hope to solve my issues locally and not resolve to online forums for help when i get into trouble practicing my basic git and github workflow.
 signed admirerbrown.
+today marks another day in the practising of the basic workflow of git and github.this activity is the third modification of the sammy.txt.
+i seek today to modify a file without any reference to the online odin project websheet.any trouble i find myself into will be considered a challenge to solve.i hope and pray everything goes to plan.
