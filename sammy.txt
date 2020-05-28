@@ -6,3 +6,9 @@ i have finally been able to resolve my issue of unable to commit my staged file 
 signed admirerbrown.
 today marks another day in the practising of the basic workflow of git and github.this activity is the third modification of the sammy.txt.
 i seek today to modify a file without any reference to the online odin project websheet.any trouble i find myself into will be considered a challenge to solve.i hope and pray everything goes to plan.
+hurray... finally i have been able to modify a file without looking at the help page of the odin project.hmm...i only encoutered just one error..which
+i was able to solve.the forgot the command for pushing the file so my branch is update with my master.
+i seek to create a curriculum for myself paced learning so i dont waste too much time reading without any
+practising..well let me end here so i dont overwrite. i will learn more about my text editor and command line terminal so i dont 
+become slow in executing my commands.on that note it is a see u next time.
+signed admirerbrown...
