@@ -1,0 +1,9 @@
+entry 1.
+dear diary, today i think am atleast okay with cloning a repository from a remote version to a local repository.
+but i have run into a difficult situation that is proving unsolvable.
+i tried using the second method of creating a project on git hub.and unfortunately the repository and its sub-directory shows but the 
+files inside the sub-directory doesnt show in my test editor.i have tried solving this challenge first without googling to see what command i have ommitted.
+i think i will continue to try solving this challenge by restarting the whole process of the initialization method.
+well i will let u know what happpens next in this new challenge of mine. well i find git interesting and so i will solve this challenge before moving on  unto my next lesson of HTLM basics.
+see u next time diary.
+signed admirerbrown.
